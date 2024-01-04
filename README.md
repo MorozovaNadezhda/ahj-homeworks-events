@@ -1,3 +1,8 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/bbg8il32t7invhdu/branch/master?svg=true)](https://ci.appveyor.com/project/CarolineFell/ahj-homeworks-events/branch/master)
+
+https://carolinefell.github.io/ahj-homeworks-events/
+
+---
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ нужно использовать менеджер пакетов yarn (а значит, никакого `package-lock.json` в репозитории быть не должно)
